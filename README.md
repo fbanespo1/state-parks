@@ -38,7 +38,7 @@ The **State Parks Travel Assistant** is a user-friendly application designed to 
 
 Follow these steps to use the State Parks Travel Assistant:
 
-1. Obtain an API key from OpenAI and replace `'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'` with your actual API key in the `openai.api_key` line of the `travel.py` script.
+1. Obtain an API key from OpenAI and replace `'sk-xxxxxxxxx'` with your actual API key in the `openai.api_key` line of the `travel.py` script.
 
 2. Run the application using Streamlit:
    ```shell
